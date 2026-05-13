@@ -1,16 +1,36 @@
-## Hi there 👋
+ 👋
 
-<!--
-**TheTosS/TheTosS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Romanas 👋
 
-Here are some ideas to get you started:
+Metalworker & CNC specialist transitioning into Python Automation and Industrial IT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python
+- Django
+- Selenium
+- PyTest
+- Docker
+- HTML/CSS
+- Git/GitHub
+
+## Industrial Background
+- CNC machining
+- TRUMPF press brake systems
+- Steel / aluminum / stainless steel processing
+- Manufacturing workflows
+
+## Current Focus
+- Python automation
+- Industrial software
+- QA automation
+- CAD/CAM technologies
+- Docker & backend development
+
+## Projects
+- QA automation demo
+- Django practice projects
+- Python utilities
+- Automation experiments
+
+## Goals
+Build software for manufacturing, automation and industrial workflows.
